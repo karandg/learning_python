@@ -1,1 +1,1 @@
-# learning_python
+# Beginning my journey in Python.
